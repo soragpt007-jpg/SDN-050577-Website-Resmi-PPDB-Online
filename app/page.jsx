@@ -104,7 +104,7 @@ export default function Page() {
                 <div className="bg-white text-green-800 p-1.5 rounded-lg mr-3">
                   <BookOpen size={24} />
                 </div>
-                <h2 className="text-2xl font-bold">SDN 050577 KW. BEGUMIT</h2>
+                <h2 className="text-2xl font-bold">SDN 050577 Kw. Begumit</h2>
               </div>
               <p className="text-green-200 mb-4 text-sm leading-relaxed">
                 Mewujudkan Generasi Cerdas, Berkarakter, dan Berprestasi melalui lingkungan belajar yang nyaman dan guru yang profesional.
@@ -134,7 +134,7 @@ export default function Page() {
             </div>
           </div>
           <div className="border-t border-green-800 pt-8 text-center text-sm text-green-400">
-            <p>© {new Date().getFullYear()} SD NEGERI 050577. Hak Cipta Dilindungi.</p>
+            <p>© {new Date().getFullYear()} SD Negeri 050577 Kw.Begumit. Hak Cipta Dilindungi.</p>
           </div>
         </div>
       </footer>
