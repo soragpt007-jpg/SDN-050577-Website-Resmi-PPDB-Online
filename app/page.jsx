@@ -197,7 +197,7 @@ function Beranda({ navigateTo }) {
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-green-800 leading-tight mb-6">
                 Selamat Datang di <br/>
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-600 to-green-400">
-                  SD NEGERI 050577
+                  SD NEGERI 050577 KW. BEGUMIT
                 </span>
               </h1>
               <p className="text-lg md:text-xl text-gray-700 mb-8 max-w-2xl mx-auto lg:mx-0 border-l-4 border-yellow-400 pl-4">
