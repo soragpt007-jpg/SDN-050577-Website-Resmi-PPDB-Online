@@ -267,7 +267,7 @@ function Beranda({ navigateTo }) {
       <section className="bg-green-700 py-12">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h2 className="text-2xl md:text-3xl font-bold text-white mb-6">Penerimaan Peserta Didik Baru Telah Dibuka!</h2>
-          <p className="text-green-100 mb-8">Segera daftarkan putra/putri Anda dan bergabung bersama keluarga besar SD Negeri 050577.</p>
+          <p className="text-green-100 mb-8">Segera daftarkan putra/putri Anda dan bergabung bersama keluarga besar SD Negeri 050577 Kw. Begumit.</p>
           <button 
             onClick={() => navigateTo('ppdb')}
             className="bg-yellow-400 hover:bg-yellow-500 text-green-900 font-bold py-3 px-10 rounded-full shadow-lg transition text-lg"
@@ -308,7 +308,7 @@ function Profil() {
               <BookOpen className="mr-3 text-yellow-500" /> Sejarah Singkat
             </h2>
             <p className="text-gray-700 leading-relaxed mb-8">
-              SD NEGERI 050577 Kw.Begumit berdiri dengan tujuan mulia untuk mencerdaskan anak bangsa di wilayah Kecamatan Binjai, Kabupaten Langkat. Sejak didirikan, sekolah ini terus berkomitmen memberikan layanan pendidikan dasar terbaik yang tidak hanya berfokus pada kecerdasan akademik, tetapi juga pembangunan karakter yang kuat berlandaskan nilai-nilai luhur budaya bangsa.
+              SD NEGERI 050577 Berdiri dengan tujuan mulia untuk mencerdaskan anak bangsa di wilayah Kecamatan Binjai, Kabupaten Langkat. Sejak didirikan, sekolah ini terus berkomitmen memberikan layanan pendidikan dasar terbaik yang tidak hanya berfokus pada kecerdasan akademik, tetapi juga pembangunan karakter yang kuat berlandaskan nilai-nilai luhur budaya bangsa.
             </p>
 
             <div className="grid md:grid-cols-2 gap-8 mb-8">
