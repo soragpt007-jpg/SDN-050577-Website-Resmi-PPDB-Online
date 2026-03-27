@@ -408,9 +408,9 @@ function Galeri() {
     "https://i.postimg.cc/3RMcwgjp/IMG-20250817-083536.jpg",
     "https://i.postimg.cc/63smQdVH/IMG-20250814-095208.jpg",
     "https://i.postimg.cc/WzJXvxr3/IMG-20250910-WA0010.jpg",
-    "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&q=80&w=800",
+    "https://i.postimg.cc/B6zMRJ84/IMG-20250910-WA0016.jpg",
     "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=800",
-    "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&q=80&w=800"
+    "https://i.postimg.cc/qqCjTWn0/IMG-20260117-WA0003(1).jpg"
   ];
 
   return (
