@@ -308,7 +308,7 @@ function Profil() {
               <BookOpen className="mr-3 text-yellow-500" /> Sejarah Singkat
             </h2>
             <p className="text-gray-700 leading-relaxed mb-8">
-              SD NEGERI 050577 berdiri dengan tujuan mulia untuk mencerdaskan anak bangsa di wilayah Kecamatan Binjai, Kabupaten Langkat. Sejak didirikan, sekolah ini terus berkomitmen memberikan layanan pendidikan dasar terbaik yang tidak hanya berfokus pada kecerdasan akademik, tetapi juga pembangunan karakter yang kuat berlandaskan nilai-nilai luhur budaya bangsa.
+              SD NEGERI 050577 Kw.Begumit berdiri dengan tujuan mulia untuk mencerdaskan anak bangsa di wilayah Kecamatan Binjai, Kabupaten Langkat. Sejak didirikan, sekolah ini terus berkomitmen memberikan layanan pendidikan dasar terbaik yang tidak hanya berfokus pada kecerdasan akademik, tetapi juga pembangunan karakter yang kuat berlandaskan nilai-nilai luhur budaya bangsa.
             </p>
 
             <div className="grid md:grid-cols-2 gap-8 mb-8">
@@ -465,7 +465,7 @@ function Kontak() {
                 <div>
                   <h4 className="font-semibold text-lg mb-1">Alamat</h4>
                   <p className="text-green-100 text-sm leading-relaxed">
-                    SD NEGERI 050577<br/>
+                    SD NEGERI 050577 Kw.Begumit<br/>
                     JLN. P. KEMERDEKAAN<br/>
                     Kecamatan Binjai, Kabupaten Langkat<br/>
                     Provinsi Sumatera Utara, Indonesia
