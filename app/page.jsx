@@ -419,7 +419,7 @@ function Galeri() {
         <div className="text-center mb-12">
           <h1 className="text-3xl md:text-4xl font-bold text-green-800 mb-4">Galeri Kegiatan</h1>
           <div className="w-24 h-1 bg-yellow-400 mx-auto rounded-full"></div>
-          <p className="mt-4 text-gray-600">Dokumentasi momen-momen berharga dan kegiatan siswa/i SD Negeri 050577.</p>
+          <p className="mt-4 text-gray-600">Dokumentasi momen-momen berharga dan kegiatan siswa/i SD Negeri 050577 Kw. Begumit.</p>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
