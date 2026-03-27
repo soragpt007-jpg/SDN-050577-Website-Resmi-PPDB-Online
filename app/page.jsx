@@ -505,7 +505,7 @@ function Kontak() {
           <div className="md:col-span-3 min-h-[400px]">
             <iframe 
               title="Peta Lokasi SD Negeri 050577"
-              src="Https://maps.app.goo.gl/7xHdeFxgkBPWnPsj7?g_st=ac" 
+              src="Https://maps.google.com/maps?q=SD+NEGERI+050577+KW+BEGUMIT,+Suka+Makmur,+Kec.+Binjai,+Kabupaten+Langkat,+Sumatera+Utara&t=&z=15&ie=UTF8&iwloc=&output=embed" 
               width="100%" 
               height="100%" 
               style={{ border: 0 }} 
