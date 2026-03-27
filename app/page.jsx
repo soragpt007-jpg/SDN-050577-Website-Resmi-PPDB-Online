@@ -382,7 +382,7 @@ function PPDB() {
           
           {/* GANTI LINK DI BAWAH INI DENGAN LINK GOOGLE FORM ANDA */}
           <a 
-            href="https://forms.gle/LINK_GOOGLE_FORM_ANDA_DI_SINI" 
+            href="https://forms.gle/jbyz3J4N9ptpYDms6" 
             target="_blank" 
             rel="noreferrer"
             className="inline-flex items-center justify-center w-full sm:w-auto bg-green-600 hover:bg-green-700 text-white font-bold py-4 px-10 rounded-full shadow-lg transition duration-300 transform hover:-translate-y-1 text-lg group"
