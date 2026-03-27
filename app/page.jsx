@@ -38,7 +38,7 @@ export default function Page() {
                 <BookOpen size={28} />
               </div>
               <div>
-                <h1 className="text-xl md:text-2xl font-bold text-green-700 leading-tight">SDN 050577</h1>
+                <h1 className="text-xl md:text-2xl font-bold text-green-700 leading-tight">SDN 050577 Kw. Begumit</h1>
                 <p className="text-xs text-gray-500 font-semibold tracking-wider">KABUPATEN LANGKAT</p>
               </div>
             </div>
