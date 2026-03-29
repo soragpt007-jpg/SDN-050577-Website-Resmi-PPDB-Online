@@ -410,7 +410,7 @@ function Galeri() {
     "https://i.postimg.cc/WzJXvxr3/IMG-20250910-WA0010.jpg",
     "https://i.postimg.cc/B6zMRJ84/IMG-20250910-WA0016.jpg",
     "https://i.postimg.cc/LXbhf8X3/IMG-20250904-WA0060.jpg",
-    "https://i.postimg.cc/qqCjTWn0/IMG-20260117-WA0003(1).jpg"
+    "https://i.postimg.cc/L87kBJtw/IMG_20250813_100316.jpg"
   ];
 
   return (
