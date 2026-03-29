@@ -221,7 +221,7 @@ function Beranda({ navigateTo }) {
             <div className="lg:w-1/2 relative">
               <div className="absolute -inset-4 bg-yellow-300 rounded-3xl transform rotate-3 opacity-30"></div>
               <img 
-                src="https://i.postimg.cc/9M0LxDQ1/IMG-20250802-111254.jpg" 
+                src="https://i.postimg.cc/qqCjTWn0/IMG-20260117-WA0003(1).jpg" 
                 alt="Tampilan Depan Kantor Sekolah" 
                 className="relative rounded-3xl shadow-2xl object-cover h-[400px] w-full border-4 border-white"
               />
