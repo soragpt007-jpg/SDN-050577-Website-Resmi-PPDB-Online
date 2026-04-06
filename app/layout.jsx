@@ -2,7 +2,10 @@ import './globals.css';
 
 export const metadata = {
   title: 'SDN 050577 - Website Resmi & PPDB',
-  description: 'Website resmi SD Negeri 050577 beserta sistem Penerimaan Peserta Didik Baru (PPDB) online terpadu.',
+  description: 'Website resmi SD Negeri 050577 beserta sistem Penerimaan Peserta Didik Baru (PPDB).',
+  verification: {
+    google:'4SGgsyS-aCkRW',
+  },
 };
 
 export default function RootLayout({ children }) {
