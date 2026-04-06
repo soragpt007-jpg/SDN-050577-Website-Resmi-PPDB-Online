@@ -4,7 +4,7 @@ export const metadata = {
   title: 'SDN 050577 - Website Resmi & PPDB',
   description: 'Website resmi SD Negeri 050577 beserta sistem Penerimaan Peserta Didik Baru (PPDB).',
   verification: {
-    google:'<meta name="google-site-verification" content="4SGgsyS-a',
+    google:'<meta name="google-site-verification" content='4SGgsyS-aCkRWWEFjv',
   },
 };
 
